@@ -10,6 +10,12 @@ void world() {
     std::cout << "world\n";
 }
 
+
 void world3() {
 	std::cout << "world3\n";
+
+}
+
+void world2() {
+	std::cout << "world2\n";
 }
