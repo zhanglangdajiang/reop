@@ -9,3 +9,7 @@ void world();
 void world() {
     std::cout << "world\n";
 }
+
+void world2() {
+	std::cout << "world2\n";
+}
