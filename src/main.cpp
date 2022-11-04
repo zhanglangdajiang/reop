@@ -4,9 +4,13 @@
 
 #include "hello.h"
 void world();
+void world2();
+void world3();
 
 int main() {
-    world();
     hello h;
+    world();
+    world2();
+    world3();
     return 0;
 }
