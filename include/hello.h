@@ -9,7 +9,7 @@
 
 class hello {
 public:
-    hello() { cout << hello << "\n"; }
+    hello() { std::cout << "hello" << "\n"; }
 };
 
 

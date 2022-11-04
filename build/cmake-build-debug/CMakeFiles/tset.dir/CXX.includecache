@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../include/hello.h
+iostream
+-
+
+/mnt/d/Virtual Machines/share/reop/src/main.cpp
+hello.h
+/mnt/d/Virtual Machines/share/reop/src/hello.h
+

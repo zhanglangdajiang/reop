@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/tset.dir/src/hello.cpp.o CMakeFiles/tset.dir/src/main.cpp.o CMakeFiles/tset.dir/src/subdir/sub.cpp.o  -o tset 
